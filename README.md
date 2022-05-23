@@ -31,6 +31,8 @@ Algoritmos para el calculo de numeros pseudoaleatorios:
 Hay que establecer el nombre del .csv que se va a generar en la variable "archivo"
 
 **Ejemplo:**
+
+- *Todos los generadores contienen el siguiente bloque de codigo*
 ```py
 from guardarNumeros import guardarNumeros
 
@@ -57,6 +59,7 @@ Pruebas para numeros pseudoaleatorios:
 Hay que establecer el nombre del .csv en la variable "archivo"
 
 **Ejemplo:**
+- *Todos los generadores contienen el siguiente bloque de codigo*
 ```py
 from extraerNumeros import extraerNumeros
 

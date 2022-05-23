@@ -9,7 +9,6 @@
     - [Importar Archivos .csv](#importar-archivos-csv)
 
 ## Ejercicios - Introduccion a Python 
----
 Ejericios practicos de Python:
 - Ecuacion Cudratica
 - Cadenas de Texo
@@ -21,7 +20,6 @@ Ejericios practicos de Python:
 
 
 ## Generadores - Numeros Pseudoaleatorios
----
 Algoritmos para el calculo de numeros pseudoaleatorios:
 - Algoritmo de Productos Medios
 - Algoritmo Lineal
@@ -44,7 +42,6 @@ archivo = 'numerosPseudo-1.csv'
 Todos los archivos .csv generados seran guardados en el directorio *files*
 
 ## Validadores
----
 Pruebas para numeros pseudoaleatorios:
 - Prueba de Medias
 - Prueba de Varianza
